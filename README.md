@@ -1,5 +1,5 @@
-# CMCSProjectPART1
-link:  [MendessitholeST10332172-MENDES-SITHOLE-PROGRAM-6212-2B-PART-1](https://github.com/Mendessithole/MendessitholeST10332172-MENDES-SITHOLE-PROGRAM-6212-2B-PART-1)
+# CMCSProjectPART2
+link:  [MendessitholeST10332172-MENDES-SITHOLE-PROGRAM-6212-2B-PART-2][https://github.com/Mendessithole2002/Part-2]
 
 
 Open the Project in Visual Studio:
